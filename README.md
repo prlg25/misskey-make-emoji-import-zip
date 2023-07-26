@@ -1,0 +1,2 @@
+# misskey-make-emoji-import-zip
+Misskeyのカスタム絵文字をバルクインポートするためのZIPファイルを作成するスクリプト
